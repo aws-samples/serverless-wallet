@@ -1,0 +1,2 @@
+pyqldb
+aws-xray-sdk

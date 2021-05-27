@@ -1,0 +1,3 @@
+aws_kinesis_agg
+amazon.ion
+jsonconversion
